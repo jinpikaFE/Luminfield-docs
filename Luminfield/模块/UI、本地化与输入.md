@@ -4,7 +4,7 @@ graph_namespace: luminfield
 type: module
 module: UI、本地化与输入
 source_branch: main
-source_commit: bf5027625612606e065cc5407affaa867e40a234
+source_commit: dc85b9750b0d57d99b95d36ce3c99af4140a323f
 last_verified: 2026-08-19
 status: active
 tags:
@@ -31,7 +31,7 @@ tags:
 ## 本地化契约
 
 - 简体中文与英文分别位于 `localization/zh_CN.json` 和 `localization/en.json`。
-- 两个文件必须拥有完全相同的键集合；当前验证快照为 737/737。
+- 两个文件必须拥有完全相同的键集合；当前验证快照为 770/770。
 - 领域结果返回稳定本地化键，不保存已翻译文本。
 - 动作、失败原因、物品、作物、人物、设施、对话、面板和验证场景都必须双语。
 - 新键应按现有命名空间归类，不能以 UI 中硬编码文本替代。
