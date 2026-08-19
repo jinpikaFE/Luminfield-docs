@@ -14,6 +14,8 @@ tags:
 
 本 Vault 使用独立 Git 仓库同步项目知识，不依赖 Obsidian Sync。Git 只负责版本协作，不提供实时多人编辑；同一篇笔记尽量一次只由一个人修改。
 
+远程仓库：`git@github.com:jinpikaFE/Luminfield-docs.git`
+
 ## 日常流程
 
 1. 修改前在 Vault 根目录执行 `git pull --ff-only`。
