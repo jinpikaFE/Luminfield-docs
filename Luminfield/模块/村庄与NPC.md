@@ -4,7 +4,7 @@ graph_namespace: luminfield
 type: module
 module: 村庄与NPC
 source_branch: main
-source_commit: 52e6f8a20656a9ccd994e174e98b0135750ec240
+source_commit: 196f14a234f757616c19b1ba0807d2d164c03b1a
 last_verified: 2026-08-21
 status: in-progress
 tags:
