@@ -37,6 +37,7 @@ tags:
 - [[Luminfield/模块/测试、试玩与发布验证|测试、试玩与发布验证]]
 - [[Luminfield/模块/游戏循环与视觉|Luminfield 游戏循环与视觉]]
 - [[Luminfield/模块/村庄与NPC|Luminfield 村庄与 NPC]]
+- [[Luminfield/模块/节日与活动|Luminfield 节日与活动]]
 - [[Luminfield/模块/玩法路线图|Luminfield 玩法路线图]]
 
 ## 项目记录
